@@ -1,5 +1,6 @@
 # Xperimental WonderCMS FORK // Base Verion: 2.4.0
-Simple, responsive and small flat file CMS built with PHP.
+Simple, responsive and small flat file CMS built with PHP. <br/>
+<b> Warning </b>: This is all experimental and some of the features are not finished and are actively being worked on.
 
 ### New Features
 - Added social bar functionality as theme, (porting to plugin)
