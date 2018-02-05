@@ -13,6 +13,6 @@ if($lc == "fr"){
 } else if($lc == "es"){
     header("location: es.php");
 }
-else{ // don't forget the default case if $lc is empty
+else{ // default case if $lc is empty
     header("location: "); // aka english or other languages i have not added
 }
