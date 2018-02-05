@@ -5,7 +5,7 @@ if(defined('VERSION'))
 
 	 wCMS::addListener('js', 'loadAdditionContentsJS');
 	 wCMS::addListener('css', 'loadAdditionContentsCSS');
-	 wCMS::addListener('page', 'loadAdditionContentsEditableV2');
+	 wCMS::addListener('page', '');
 /*
 function loadAdditionContentsJS($args) {
 	$script = <<<'EOT'
