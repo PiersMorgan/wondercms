@@ -9,7 +9,7 @@ Simple, responsive and small flat file CMS built with PHP. <br/>
 - Allow PHP within editable fields both plugin and theme
 - Markdown support.
 - Multi language support, both detection and manual switcher in menu (plugin)
-
+- Many, many, new themes, maybe even move away from bootstrap to a custom bespoke theme for much much faster speed.
 
 
 ## Links
