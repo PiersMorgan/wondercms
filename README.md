@@ -1,4 +1,4 @@
-# WonderCMS 2.4.0
+# Xperimental WonderCMS FORK // Base Verion: 2.4.0
 Simple, responsive and small flat file CMS built with PHP.
  - Less than [50 functions](https://github.com/robiso/wondercms/wiki/List-of-all-functions) and 1000 lines of code.
  - 5 file structure: [index.php](https://github.com/robiso/wondercms/blob/master/index.php), [theme.php](https://github.com/robiso/wondercms/blob/master/themes/default/theme.php), [style.css](https://github.com/robiso/wondercms/blob/master/themes/default/css/style.css), [database.js](https://github.com/robiso/wondercms/wiki/Default-database.js#default-databasejs) and [htaccess](https://github.com/robiso/wondercms/blob/master/.htaccess).
@@ -10,30 +10,14 @@ Simple, responsive and small flat file CMS built with PHP.
 
 <a href="https://www.wondercms.com" title="WonderCMS website"><img src="https://www.wondercms.com/WonderCMS-intro.png?v=5" alt="WonderCMS quick intro" /></a>
 
-## Requirements
-WonderCMS works on most hosting packages (and **even on some free hosting providers**).
-- PHP 5.5 or higher
-  - cURL extension (for local servers, install a certificate to avoid [the persistent "Update" message error](https://github.com/robiso/wondercms/wiki/Persistent-%22New-WonderCMS-update-available%22-message))
-  - mbstring extension
-  - ZipArchive extension
-- htaccess support on Apache (for NGINX or IIS, check [these 1 step necessary changes](https://github.com/robiso/wondercms/wiki/One-step-install#additional-steps-for-nginx-and-iis))
+### New Features
+- Added social bar functionality as theme, (porting to plugin)
 
-## Features
- - no configuration required, unzip and upload
- - simple click and edit functionality
- - theme and plugin installer
- - 1 click update and backup
- - easy to theme
- - lightweight, runs on a couple hundred lines of code and 5 files
- - responsive
- - clean URLs
- - custom login URL
- - custom homepage
- - highlighted current page in menu
- - 404 page
- - SEO support (custom title, keywords and description for each page)
- - optional functions.php file - includes itself when you create it (the location of the functions.php should be inside your active theme folder)
- - no known vulnerabilities - special thanks to yassineaddi, hypnito, and other security researchers
+### Upcoming
+- Allow PHP within editable fields both plugin and theme
+- Markdown support.
+
+
 
 ## Links
 #### Website links
